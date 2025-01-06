@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Lê Thái Vy - Người Dẫn Dắt Thành Công Của King88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Lê Thái Vy <https://king88.soy/ceo-king88-le-thai-vy/>`_ là người đứng đầu King88, một trong những nền tảng giải trí và chơi game trực tuyến hàng đầu tại Việt Nam. Với tầm nhìn chiến lược và sự tận tâm, Lê Thái Vy đã dẫn dắt King88 phát triển mạnh mẽ từ khi thành lập, đưa King88 trở thành lựa chọn ưu tiên của hàng triệu người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Ông không chỉ chú trọng đến việc cung cấp các sản phẩm game chất lượng cao mà còn luôn ưu tiên đảm bảo sự an toàn và minh bạch cho người chơi. Dưới sự lãnh đạo của Lê Thái Vy, King88 không ngừng đổi mới và hoàn thiện, đem lại trải nghiệm giải trí đỉnh cao, cùng với các dịch vụ khách hàng chuyên nghiệp và tận tình.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 11d Đ. Lô Tư, Bình Hưng Hoà A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0771121211. 
 
-.. toctree::
+Email: contact@king88.soy. 
 
-   usage
-   api
+Website: https://king88.soy/ceo-king88-le-thai-vy/ 
+
+#lethaivy #ceolethaivy #ceolethaivy_king88
